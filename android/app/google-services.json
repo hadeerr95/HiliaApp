@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513187353395",
+    "project_id": "hilia-c38f0",
+    "storage_bucket": "hilia-c38f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513187353395:android:c936f09c1327b1db702446",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513187353395-bvtpjt9e76pvdnm3thep3af0fq5kp0cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_ecommerce",
+            "certificate_hash": "3051f2a9d3fc69b0e446de11befa8984a111da3e"
+          }
+        },
+        {
+          "client_id": "513187353395-hma8jhnc81097ja900t461bj5cfl0mo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobw--_CSnRaz6i0Svqu0xZmM_uA09ND8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513187353395-hma8jhnc81097ja900t461bj5cfl0mo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
